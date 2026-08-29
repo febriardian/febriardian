@@ -9,19 +9,26 @@
 
 ---
 
-### 🚀 Tentang Saya
+## Tentang Saya
+
 * 🎓 Mahasiswa Jurusan **Digital Business** di Universitas Ngudi Waluyo.
 * 💻 Sedang mendalami pengembangan web, pemrograman **JavaScript**, dan sistem aplikasi e-commerce serta Data Science.
 
 
-### 🛠️ Tech Stack & Tools
-* **Languages & Web:** JavaScript, HTML/CSS, Node.js
-* **Frameworks & Tools:** React, Vite, TailwindCSS, Git & GitHub, Firebase
-* **Business Operations:** Microsoft Excel, Database Management & Data Entry, Data Science
+## Tech Stack & Tools
 
----
+- **Languages & Web:** JavaScript, HTML/CSS, Node.js
+- **Frameworks & Tools:** React, Vite, Tailwind CSS, Git & GitHub, Firebase
+- **Data Science:** Python, Pandas, NumPy, scikit-learn, Jupyter, SQL
+- **Business Operations:** Microsoft Excel, Database Management & Data Entry
 
-### 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=febriardian&show_icons=true&theme=tokyonight&hide_border=true)
+## GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=febriardian&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=febriardian&theme=github_dark" alt="GitHub contribution overview" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=febriardian&theme=github_dark" alt="GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=febriardian&theme=github_dark" alt="Repositories per language" />
+
+</div>
