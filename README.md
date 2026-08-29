@@ -1,19 +1,28 @@
-# Halo semua! 
+<h1 align="center">Halo, Saya Febri Nur Ardian Syah! 👋</h1>
 
-Perkenalkan nama saya **Febri Nur Ardian Syah**.<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=febriardian&color=blue&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/febriardian"><img src="https://img.shields.io/badge/GitHub-febri18-blue?style=flat-square&logo=github" alt="GitHub Profile"></a>
+  <a href="https://www.linkedin.com/in/febri-nur-ardian-syah-b58046375"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn Profile"></a>
+  <img src="https://img.shields.io/badge/Status-Exploring%20Digital%20Business%20%26%20Web%20Dev-blue?style=flat-square" alt="Status" />
+</p>
 
-Saya seorang **Data Science Specialist** di [Dicoding](https://www.dicoding.com/).<br>
+---
 
-Saya bertanggung jawab pada pengelolaan data dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+### 🚀 Tentang Saya
+* 🎓 Mahasiswa Jurusan **Digital Business** di Universitas Ngudi Waluyo.
+* 💻 Sedang mendalami pengembangan web, pemrograman **JavaScript**, dan sistem aplikasi e-commerce serta Data Science.
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+### 🛠️ Tech Stack & Tools
+* **Languages & Web:** JavaScript, HTML/CSS, Node.js
+* **Frameworks & Tools:** React, Vite, TailwindCSS, Git & GitHub, Firebase
+* **Business Operations:** Microsoft Excel, Database Management & Data Entry, Data Science
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
-</a>
+---
+
+### 📊 GitHub Statistics
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=febriardian&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=febriardian&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
