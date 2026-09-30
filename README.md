@@ -9,10 +9,10 @@
 
 ---
 
-## Tentang Saya
+## About Me
 
-* 🎓 Mahasiswa Jurusan **Digital Business** di Universitas Ngudi Waluyo.
-* 💻 Sedang mendalami pengembangan web, pemrograman **JavaScript**, dan sistem aplikasi e-commerce serta Data Science.
+* Undergraduate student majoring in Digital Business at Ngudi Waluyo University.
+* Currently exploring web development, **JavaScript** programming, e-commerce application systems, and Data Science.
 
 
 ## Tech Stack & Tools
